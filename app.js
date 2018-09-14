@@ -7,3 +7,6 @@ var i=i+1;
 
 //some unused code
 var notused=0;
+
+//pip are great
+var hello = 'test';
